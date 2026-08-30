@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.phuc.cobbledollarsminigames.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["CoinEconomyHooks"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
